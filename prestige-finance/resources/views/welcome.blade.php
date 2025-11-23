@@ -32,7 +32,7 @@
     >
         <div class="container mx-auto px-6 flex justify-between items-center">
             <!-- Logo -->
-            <a href="#" class="text-2xl font-display font-bold tracking-tighter flex items-center gap-2">
+            <a href="/demande" class="text-2xl font-display font-bold tracking-tighter flex items-center gap-2">
                 <div class="w-8 h-8 bg-gradient-to-tr from-amber-400 to-amber-600 rounded-tr-lg rounded-bl-lg"></div>
                 <span>PRESTIGE<span class="text-amber-400">.</span>FINANCE</span>
             </a>
@@ -46,7 +46,7 @@
             </nav>
 
             <!-- CTA Button -->
-            <a href="#" class="hidden md:inline-block px-6 py-2.5 rounded-full bg-gradient-to-r from-amber-400 to-amber-600 text-slate-900 font-bold text-sm hover:shadow-[0_0_20px_rgba(251,191,36,0.4)] transition-all transform hover:-translate-y-0.5">
+            <a href="/demande"class="hidden md:inline-block px-6 py-2.5 rounded-full bg-gradient-to-r from-amber-400 to-amber-600 text-slate-900 font-bold text-sm hover:shadow-[0_0_20px_rgba(251,191,36,0.4)] transition-all transform hover:-translate-y-0.5">
                 Faire une demande
             </a>
 
