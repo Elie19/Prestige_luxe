@@ -221,7 +221,9 @@
                     <div class="absolute bottom-0 left-0 p-8 w-full">
                         <h3 class="text-2xl font-bold mb-2">Crédit Immobilier de Prestige</h3>
                         <p class="text-slate-300 text-sm mb-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0">Villas, Penthouses, Investissements locatifs.</p>
-                        <span class="inline-block text-amber-400 font-bold text-sm border-b border-amber-400 pb-1 opacity-0 group-hover:opacity-100 transition-all delay-75 translate-y-4 group-hover:translate-y-0">Faire un prêt &rarr;</span>
+                        <a href="/demande" class="inline-block text-amber-400 font-bold text-sm border-b border-amber-400 pb-1 opacity-0 group-hover:opacity-100 transition-all delay-75 translate-y-4 group-hover:translate-y-0">
+            Faire un prêt &rarr;
+        </a>
                     </div>
                 </div>
 
@@ -231,7 +233,9 @@
                     <div class="absolute inset-0 bg-gradient-to-t from-black/90 to-transparent opacity-80 group-hover:opacity-90"></div>
                     <div class="absolute bottom-0 left-0 p-6 w-full">
                         <h3 class="text-xl font-bold mb-1">Automobile</h3>
-                        <span class="text-amber-400 text-sm opacity-0 group-hover:opacity-100 transition-opacity">Faire un prêt &rarr;</span>
+                       <a href="/demande" class="inline-block text-amber-400 text-sm opacity-0 group-hover:opacity-100 transition-opacity">
+            Faire un prêt &rarr;
+        </a>
                     </div>
                 </div>
 
@@ -241,7 +245,9 @@
                     <div class="absolute inset-0 bg-gradient-to-t from-black/90 to-transparent opacity-80 group-hover:opacity-90"></div>
                     <div class="absolute bottom-0 left-0 p-6 w-full">
                         <h3 class="text-xl font-bold mb-1">Financement Pro</h3>
-                        <span class="text-amber-400 text-sm opacity-0 group-hover:opacity-100 transition-opacity">Faire un prêt &rarr;</span>
+                        <a href="/demande" class="inline-block text-amber-400 text-sm opacity-0 group-hover:opacity-100 transition-opacity">
+            Faire un prêt &rarr;
+        </a>
                     </div>
                 </div>
 
@@ -252,7 +258,9 @@
                     <div class="absolute bottom-0 left-0 p-8 w-full">
                         <h3 class="text-2xl font-bold mb-2">Prêt Personnel Lifestyle</h3>
                         <p class="text-slate-300 text-sm mb-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0">Mariage, Voyage, Art, Montres de collection.</p>
-                        <span class="inline-block text-amber-400 font-bold text-sm border-b border-amber-400 pb-1 opacity-0 group-hover:opacity-100 transition-all delay-75 translate-y-4 group-hover:translate-y-0">Faire un prêt &rarr;</span>
+                         <a href="/demande" class="inline-block text-amber-400 font-bold text-sm border-b border-amber-400 pb-1 opacity-0 group-hover:opacity-100 transition-all delay-75 translate-y-4 group-hover:translate-y-0">
+            Faire un prêt &rarr;
+        </a>
                     </div>
                 </div>
             </div>
